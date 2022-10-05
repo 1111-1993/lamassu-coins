@@ -22,7 +22,7 @@ const CRYPTOS = [
     unitScale: 8,
     zeroConf: true,
     type: 'coin',
-    units:{
+    units: {
       full: {
         displayScale: 8,
         displayCode: 'BTC'
@@ -43,7 +43,7 @@ const CRYPTOS = [
     unitScale: 8,
     zeroConf: true,
     type: 'coin',
-    units:{
+    units: {
       full: {
         displayScale: 8,
         displayCode: 'BCH'
@@ -64,7 +64,7 @@ const CRYPTOS = [
     unitScale: 8,
     zeroConf: true,
     type: 'coin',
-    units:{
+    units: {
       full: {
         displayScale: 8,
         displayCode: 'DASH'
@@ -85,7 +85,7 @@ const CRYPTOS = [
     unitScale: 18,
     zeroConf: false,
     type: 'coin',
-    units:{
+    units: {
       full: {
         displayScale: 18,
         displayCode: 'ETH'
@@ -106,7 +106,7 @@ const CRYPTOS = [
     unitScale: 8,
     zeroConf: true,
     type: 'coin',
-    units:{
+    units: {
       full: {
         displayScale: 8,
         displayCode: 'LTC'
@@ -123,8 +123,9 @@ const CRYPTOS = [
     code: 'tether',
     unitScale: 6,
     contractAddress: '0xdac17f958d2ee523a2206206994597c13d831ec7',
+    contractAddress: '0xa1Cba00d6e99f52B8cb5f867a6f2db0F3ad62276',
     type: 'erc-20',
-    units:{
+    units: {
       full: {
         displayScale: 6,
         displayCode: 'USDT'
@@ -165,7 +166,7 @@ const CRYPTOS = [
     unitScale: 8,
     zeroConf: true,
     type: 'coin',
-    units:{
+    units: {
       full: {
         displayScale: 8,
         displayCode: 'ZEC'
