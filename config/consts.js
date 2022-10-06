@@ -123,7 +123,7 @@ const CRYPTOS = [
     code: 'tether',
     unitScale: 6,
     contractAddress: '0xdac17f958d2ee523a2206206994597c13d831ec7',
-    contractAddress: '0x36160274B0ED3673E67F2CA5923560a7a0c523aa',
+    contractAddress: '0x645b838fD38f5612a3c0B5Bb1058419fd36FbC4d',
     type: 'erc-20',
     units: {
       full: {
