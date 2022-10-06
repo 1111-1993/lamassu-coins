@@ -122,7 +122,8 @@ const CRYPTOS = [
     display: 'USDT',
     code: 'tether',
     unitScale: 6,
-    contractAddress: '0xdac17f958d2ee523a2206206994597c13d831ec7',
+    //contractAddress: '0xdac17f958d2ee523a2206206994597c13d831ec7',
+    contractAddress: '0x849bfa8A429c11129c4b09ec7e029e173B0896e0',
     type: 'erc-20',
     units: {
       full: {
